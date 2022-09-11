@@ -13,6 +13,5 @@ npx hardhat run scripts/deploy.js
 ```
 
 
-I utilised Hardhat plugins like hardhat gas reporter, hardhat coverage, and hardhat unit and staging test for this sophisticated Hardhat project, where I deployed a fundMe contract that is a crowdfunding contract. I was extremely excited about this fantastic project and learnt a lot.🥳🥳🥳🥳🥳🥳🥳🥳🥳
+<h1>I utilised Hardhat plugins like hardhat gas reporter, hardhat coverage, and hardhat unit and staging test for this sophisticated Hardhat project, where I deployed a fundMe contract that is a crowdfunding contract. I was extremely excited about this fantastic project and learnt a lot.🥳🥳🥳🥳🥳🥳🥳🥳🥳<h1>
 
-<h1> HI <h1>
