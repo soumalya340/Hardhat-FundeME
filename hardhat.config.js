@@ -7,10 +7,9 @@ require("hardhat-deploy")
 
 const RPC_URL =
     process.env.GOERLI_RPC_URL ||
-    "https://eth-goerli.g.alchemy.com/v2/n1WYIr4WFi5_Q_zm6cTmFu2cQ3YR6zv"
+    "https://eth-goerli.g.alchemy.com/v2/apiKey"
 const PRIVATE_KEY =
-    process.env.PRIVATE_KEY ||
-    "479ce98801d4cedd19a37f61797c13e410c67e6461a924f4ba187fbf841d63e3"
+    process.env.PRIVATE_KEY
 const MY_ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY
 
 module.exports = {
